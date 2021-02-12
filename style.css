@@ -57,6 +57,7 @@ header#header {
 ul.navbar-nav.me-left li a {
     font-family: 'Oswald', sans-serif !important;
     font-weight: 600;
+
     font-size: 15px;
     text-transform: uppercase;
 }
@@ -68,4 +69,8 @@ ul.navbar-nav.me-left li:first-child a{
 
 a.navbar-brand {
     font-size: 29px !important;
+}
+
+a.navbar-brand {
+    width: 69px;
 }
