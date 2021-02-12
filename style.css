@@ -72,5 +72,5 @@ a.navbar-brand {
 }
 
 a.navbar-brand {
-    width: 69px;
+    width: 69px !important;
 }
