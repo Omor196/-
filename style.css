@@ -69,8 +69,5 @@ ul.navbar-nav.me-left li:first-child a{
 
 a.navbar-brand {
     font-size: 29px !important;
-}
+     width: 69px !important;
 
-a.navbar-brand {
-    width: 69px !important;
-}
